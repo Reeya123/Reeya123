@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi there! 👋 I'm Reeya Gupta
 
-<!--
-**Reeya123/Reeya123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+🎓 Master of Science in Computer Science graduate student at The George Washington University  
+💼 Actively seeking software developer roles  
+🌐 Passionate about programming and web technologies, with hands-on experience in Python, JavaScript, HTML, CSS, and more  
+☁️ Certified in AWS (Developer Associate) and experienced with Oracle Cloud Infrastructure and Azure  
+🛠️ Proficient in version control, testing methodologies, and Agile practices  
+📚 Currently exploring opportunities to contribute to innovative projects and enhance my skills  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Let's Connect!
+📫 Reach out to me via [email](mailto:guptareeya53@gwu.edu) or [phone](tel:+12026214643)  
+💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/reeya-gupta)  
+🌐 Check out more of my work on [GitHub](https://github.com/yourgithubusername)  
+
+Looking forward to connecting with you! 😊
