@@ -11,8 +11,8 @@
 
 
 ## Let's Connect!
-📫 Reach out to me via [email](mailto:guptareeya53@gwu.edu) or [phone](tel:+12026214643)  
-💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/reeya-gupta)  
-🌐 Check out more of my work on [GitHub](https://github.com/yourgithubusername)  
+📫 Reach out to me via [email](mailto:guptareeya53@gwu.edu)
+💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/reeyag/)  
+🌐 Check out more of my work on [GitHub](https://github.com/Reeya123)  
 
 Looking forward to connecting with you! 😊
