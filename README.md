@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Reeya Gupta
 
 ## About Me
-🎓George Washington University CS Grad
+🎓George Washington University CS Grad  
 💼 Actively seeking software developer roles  
 🌐 Passionate about programming and web technologies, with hands-on experience in Python, JavaScript, HTML, CSS, and more  
 ☁️ Certified in AWS (Developer Associate) and experienced with Oracle Cloud Infrastructure and Azure  
